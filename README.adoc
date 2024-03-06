@@ -1,6 +1,8 @@
 # iinterview-questions--answer
 Sir.LOIN 인터뷰 질문 답
 
+link:https://github.com/sirloin-dev/meatplatform/blob/master/job-description/interview-questions.adoc#interview-questions-kotlin[Kotlin 질문 보기]
+
 
 = 목차
 
