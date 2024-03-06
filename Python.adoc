@@ -1,0 +1,8 @@
+object 의 기본 메소드인 __eq__, __hash__ 에 대해 설명해 주세요. 두 메소드를 모두 구현할 때, 어떤 점을 주의해야 할까요?
+
+Memory leak 을 유발하는 python 코딩 패턴의 사례를 말씀해주세요.
+
+yield 키워드의 역할에 대해 설명해주세요.
+
+Global Interperter Lock 에 대해 설명해주세요.
+
