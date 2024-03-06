@@ -6,8 +6,6 @@ link:https://github.com/sirloin-dev/meatplatform/blob/master/job-description/int
 
 = 목차
 
-== 질문 목록 공개의 이유
-
 == 항목별 질문 목록
 
 === 경력 관리 및 협업
