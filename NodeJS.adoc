@@ -1,0 +1,13 @@
+Promise 에 대해 설명해 보세요.
+
+Typescript 의 type 과 interface 의 공통점 및 차이점을 설명해 보세요.
+
+Typescript 의 interface 의 특징? 컴파일 이후에는 어떻게 되는지 말씀해주세요.
+
+Javascript 와 Java 의 차이를 우리 할머니도 알아들으실 수 있도록 설명해주실 수 있습니까?
+
+Map 의 키로 number, string 대신 object 를 쓰고 싶다면, 어떤 점을 고려해야 합니까?
+
+Prototype 기반 상속과 일반적인 OOP 에서의 상속은 어떤 차이가 있습니까?
+
+Android
