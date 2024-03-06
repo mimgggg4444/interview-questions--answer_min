@@ -1,0 +1,12 @@
+비동기로 처리한 작업을 UI 에 표시하기 위해 어떤 일이 필요한지 설명해주세요.
+
+DOM 의 class 와 id 의 차이?
+
+Event bubbling 과 Event capturing 에 대해 설명해주세요.
+
+웹 UI 프레임워크들은 SPA 로 개발하는게 2022년 현재 대세인데 native app 에서는 그런 방식이 일반적이지 않다. 왜 그럴까요?
+
+flutter/RN 이 제공하는 hot reload 와 hot restart(live reload) 의 차이에 대해 설명해주세요.
+
+React 를 이용해 구현한 SPA 의 SEO 경험을 공유해주세요.
+
