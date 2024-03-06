@@ -9,5 +9,3 @@ Javascript 와 Java 의 차이를 우리 할머니도 알아들으실 수 있도
 Map 의 키로 number, string 대신 object 를 쓰고 싶다면, 어떤 점을 고려해야 합니까?
 
 Prototype 기반 상속과 일반적인 OOP 에서의 상속은 어떤 차이가 있습니까?
-
-Android
