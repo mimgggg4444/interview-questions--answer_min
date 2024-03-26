@@ -47,6 +47,7 @@
 . 업무 스케쥴링 하실 때, 시간 비용은 어떻게 산정하시나요?
 
 . Agile 이 대세라고 하는데, Agile 개발 방법론에 대한 본인의 생각을 말씀해 주세요. Agile 의 단점은 없습니까?
+. answer: 
 
 [[interview-questions-computer-systems]]
 === 운영체제 / 논리회로 일반
